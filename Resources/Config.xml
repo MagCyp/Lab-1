@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pira_Ob>7204551,8</Pira_Ob>
+  <Pira_SBich>5636406,0</Pira_SBich>
+  <Pira_SPovn>78034,7</Pira_SPovn>
+  <Conus_Ob>175578817,6</Conus_Ob>
+  <Conus_SBich>42518,7</Conus_SBich>
+  <Conus_SPovn>4800752,3</Conus_SPovn>
+  <Cilindr_Ob>420593,6</Cilindr_Ob>
+  <Cilindr_SBich>25490,5</Cilindr_SBich>
+  <Cilindr_SPovn>32329,4</Cilindr_SPovn>
+</Config>
